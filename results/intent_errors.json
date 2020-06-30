@@ -1,0 +1,66 @@
+[
+  {
+    "text": "ممتاز",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.7396475672721863
+    }
+  },
+  {
+    "text": "سيء",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9939929842948914
+    }
+  },
+  {
+    "text": "مهموم",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9988189339637756
+    }
+  },
+  {
+    "text": "تعبان",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9939212799072266
+    }
+  },
+  {
+    "text": "متضايق",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9999738931655884
+    }
+  },
+  {
+    "text": "لست بصحة جيدة",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "leaves_general",
+      "confidence": 0.9947648644447327
+    }
+  },
+  {
+    "text": "جميل",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "mood_unhappy",
+      "confidence": 0.9190014600753784
+    }
+  },
+  {
+    "text": "حزين",
+    "intent": "mood_unhappy",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9922118186950684
+    }
+  }
+]

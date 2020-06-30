@@ -9,5 +9,5 @@ services:
     command:
       - run
   app:
-    image: ml6666/test_bot:version_1
+    image: ml6666/test_bot:v1.0
     expose: [5055]

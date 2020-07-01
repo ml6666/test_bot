@@ -36,3 +36,14 @@
   - utter_thanks
 * goodbye
   - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+    - utter_introduction
+* annual_leave
+    - utter_annual_leave
+* user_civil_id{"id":"123"}
+    - slot{"id":"123"}
+    - action_respond_to_user_civil_id

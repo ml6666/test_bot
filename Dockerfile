@@ -17,8 +17,8 @@ RUN pip install -r requirements-actions.txt
 COPY ./actions /app/actions
 
 # Install modules from setup.py
-COPY setup.py /app
-RUN  pip install -e . --no-cache-dir
+#COPY setup.py /app
+#RUN  pip install -e . --no-cache-dir
 
 # Don't use root user to run code
 USER 1001

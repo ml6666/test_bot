@@ -32,6 +32,8 @@
   - utter_wages
 * affirm
   - utter_happy
+* out_of_scope
+  - utter_out_of_scope
 * thanks
   - utter_thanks
 * goodbye
